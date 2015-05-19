@@ -1,0 +1,11 @@
+# Mac OSx
+*.DS_Store
+tmp
+
+# SASS
+*.sass-cache
+*.css.map
+
+# NPM
+node_modules
+npm-debug.log
