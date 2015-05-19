@@ -1,0 +1,18 @@
+{
+  "name": "babelaas-web-framework",
+  "description": "Smart web framework for starting to build websites",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vinicius Cainelli",
+    "url": "http://github.com/vicainelli"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "jshint-stylish": "~0.4.0"
+  }
+}
